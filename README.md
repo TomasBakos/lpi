@@ -1,7 +1,7 @@
 Logika pre informatikov
 ========================
 
-[Stránka predmetu](https://dai.fmph.uniba.sk/w/Course:Mathematics_4/sk).
+[Stránka predmetu](https://dai.fmph.uniba.sk/w/Course:Mathematics_4/sk)
 
 [Inštrukcie na odovzdávanie riešení](docs/odovzdavanie.md)
 
@@ -45,6 +45,7 @@ Domáce úlohy
 * [Domáca úloha 1](du01) (výroková logika so Shefferovou spojkou)
 * [Domáca úloha 2](du02) (vyplývanie a ekvivalencia)
 * [Domáca úloha 3](du03) (vyplývanie pomocou tablového kalkulu)
+* [Domáca úloha 4](du04) (štruktúry a tablá pre logiku prvého rádu)
 
 Za účelom odovzdávania cvičení získate prístup k súkromnému repozitáru na GitHub-e.
 Používaním tohoto repozitára (t.j. nahrávaním súbrov, napríklad vašich riešení) prejavujte
