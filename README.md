@@ -7,6 +7,10 @@ Logika pre informatikov
 
 [Témy ročníkových projektov](docs/temy-rp.md)
 
+[Prednášky](docs/lecs/)
+
+[Teoretické cvičenia](docs/labs/)
+
 Body
 ----
 Prehľad o vašich bodoch si môžete pozrieť v súbore `report.md` vo vetve
