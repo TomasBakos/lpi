@@ -34,6 +34,7 @@ Praktické cvičenia
 * [Cvičenie 6](cv06) (Agatha)
 * [Cvičenie 7](cv07) (tabla)
 * [Cvičenie 8](cv08) (Hamiltonovská kružnica)
+* [Cvičenie 9](cv09) (SAT solver)
 
 Bonusy
 ------
