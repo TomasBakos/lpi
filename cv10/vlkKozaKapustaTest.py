@@ -67,6 +67,10 @@ class Tester(object):
             s[Gazda] = s[a]
             print("%2d: %-7s %s" % (k, a, s))
 
+            for x,y in ( (Vlk, Koza), (Koza, Kapusta)):
+                if s[x] == s[y] and s[x] != s[Gazda]:
+                    return self.fail('%s and %s withouth %s' % (x,y,Gazda))
+
         for o,b in s.items():
             if b != Vpravo:
                 return self.fail("%s didn't end on the right!" % o)
