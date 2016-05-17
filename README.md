@@ -36,6 +36,7 @@ Praktické cvičenia
 * [Cvičenie 8](cv08) (Hamiltonovská kružnica)
 * [Cvičenie 9](cv09) (SAT solver)
 * [Cvičenie 10](cv10) (vlk, koza, kapusta)
+* [Cvičenie 11](cv11) (rezolvencia)
 
 Bonusy
 ------
