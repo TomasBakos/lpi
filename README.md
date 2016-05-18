@@ -42,6 +42,8 @@ Bonusy
 ------
 
 * [Bonus 1](bonus01) (parsovanie formuly)
+* [Bonus 2](cv05#bonus) (lepšie toCnf)
+* [Bonus 3](cv11#bonus) (lepšia rezolvencia)
 
 Domáce úlohy
 ------------
