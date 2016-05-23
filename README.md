@@ -52,6 +52,8 @@ Domáce úlohy
 * [Domáca úloha 2](du02) (vyplývanie a ekvivalencia)
 * [Domáca úloha 3](du03) (vyplývanie pomocou tablového kalkulu)
 * [Domáca úloha 4](du04) (štruktúry a tablá pre logiku prvého rádu)
+* [Domáca úloha 5](du05) (prvorádová rezolvencia,
+  tablá pre vyplývanie v logike prvého rádu s rovnosťou)
 
 Za účelom odovzdávania cvičení získate prístup k súkromnému repozitáru na GitHub-e.
 Používaním tohoto repozitára (t.j. nahrávaním súbrov, napríklad vašich riešení) prejavujte
